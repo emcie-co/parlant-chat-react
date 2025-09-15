@@ -6,7 +6,7 @@
   "type": "module",
   "main": "dist/parlant-chat-react.umd.js",
   "module": "dist/parlant-chat-react.js",
-  "types": "dist/types/index.d.ts",
+  "types": "dist/index.d.ts",
   "author": "Menachem Brichta <menachem@emcie.co>",
   "license": "MIT",
   "repository": {
